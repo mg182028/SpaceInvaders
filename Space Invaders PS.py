@@ -47,4 +47,4 @@ while 1:
     tk.update_idletasks()
     time.sleep(0.001)
     tk.update()
-
+ 
