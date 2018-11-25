@@ -11,6 +11,6 @@ Third Step: Commit change to this branch. This is effectively saving your new ch
 
 Forth Step: Now you can test or review the changes you made in your branch. You can run code, run tests, have a peer review, and so on.
 
-Fifth Step: Once you are content that the changes on the branch meet your satisfaction and meet all the agreed upon process requirements for quality and such, you can merge into the master. 
+Fifth Step: Creat a pull request for you changes to go into the master version of the code. Once you are content that the changes on the branch meet your satisfaction it's time to share you code with your collaborators as a precursor to merging into the master. This is done using a pull request. The pull request is the step in the process when the virtual peer review occurs. Others can review your changes and provide comments back such as finding possible coding errors or code style issues. Once this step is the complete, the pull request can be closed since the review is complete.
 
-Sixth Step: Merging into the master
+Sixth Step: Merging your updates into the master. This is where you merge your pull request (all of your changes/updates) into the master. 
