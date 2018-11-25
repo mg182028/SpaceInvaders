@@ -14,3 +14,5 @@ Forth Step: Now you can test or review the changes you made in your branch. Once
 Fifth Step: Create a pull request for you changes to go into the master version of the code. Once you are content that the changes on the branch meet your satisfaction it's time to share you code with your collaborators as a precursor to merging into the master. This, confirming your changes with your collaborators, is done using a pull request. The pull request is the step in the process when the virtual peer review occurs. Others can review your changes and provide comments back such as finding possible coding errors or code style issues. Once this step is the complete, the pull request can be closed since the review is complete.
 
 Sixth Step: Merging your updates into the master. This is where you merge your pull request (all of your changes/updates) into the master. 
+
+Seventh Step: Delete your branch upon merge and you are done and ready for the next task!
